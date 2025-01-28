@@ -14,6 +14,6 @@ output "test" {
   value = local.arr
 }
 
-output "test" {
+output "test1" {
   value = local.arr3
 }
